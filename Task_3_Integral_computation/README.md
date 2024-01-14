@@ -1,4 +1,5 @@
 Here you can find the solution of the following task:
+
     >Take some function R -> R and compute its integral over some segment.
     >1. Compute the value analytically.
     2. Compute the integral using trapezoidal rule.
